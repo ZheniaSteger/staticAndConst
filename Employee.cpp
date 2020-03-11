@@ -1,6 +1,6 @@
 //============================================================================
 // Author      : Zhenia Steger
-// College     : California Statee San Marcos
+// College     : California State University San Marcos
 // Purpose     : Implementation of the Employee class.
 //	Contains methods. Initializes const variables:
 //	totalNumOfEmployees, nextEmpId, nextOfficeNo

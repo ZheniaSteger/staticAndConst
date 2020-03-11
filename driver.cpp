@@ -1,6 +1,6 @@
 //============================================================================
 // Author      : Zhenia Steger
-// College     : California Statee San Marcos
+// College     : California State University San Marcos
 // Purpose     : Implementation of the Employee class.
 //	This program demonstrates the use of constant and static types.
 //	Also demonstrates the use of the friend function.

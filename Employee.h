@@ -1,6 +1,6 @@
 //============================================================================
 // Author      : Zhenia Steger
-// College     : California Statee San Marcos
+// College     : California State University San Marcos
 // Purpose     : Header file for Employee class
 //	Declares static and const variables. Initilized in .cpp
 //	Friend function SetSalary(Employee &e)
