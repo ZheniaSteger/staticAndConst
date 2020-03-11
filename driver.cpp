@@ -2,9 +2,9 @@
 // Author      : Zhenia Steger
 // College     : California Statee San Marcos
 // Purpose     : Implementation of the Employee class.
-// Purpose     : This program demonstrates the use of constant and static types.
-// 					Also demonstrates the use of the friend function.
-//					Compile use: g++ driver.cpp Employee.cpp
+//	This program demonstrates the use of constant and static types.
+//	Also demonstrates the use of the friend function.
+//	Compile use: g++ driver.cpp Employee.cpp
 //============================================================================
 
 #include <iostream>

@@ -2,9 +2,9 @@
 // Author      : Zhenia Steger
 // College     : California Statee San Marcos
 // Purpose     : Implementation of the Employee class.
-// 					Contains methods. Initializes const variables:
-//					totalNumOfEmployees, nextEmpId, nextOfficeNo
-//					Constructors increment these values when new object is created.
+//	Contains methods. Initializes const variables:
+//	totalNumOfEmployees, nextEmpId, nextOfficeNo
+//	Constructors increment these values when new object is created.
 //============================================================================
 
 #include <iostream>

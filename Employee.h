@@ -3,10 +3,10 @@
 // College     : California Statee San Marcos
 // Purpose     : Implementation of the Employee class.
 // Purpose     : Header file for Employee class
-// 					Declares static and const variables. Initilized in .cpp
-//					Friend function SetSalary(Employee &e)
-//					is a friend function residing in driver.cpp
-//					Takes pointer to Employee object as parameter.
+//	Declares static and const variables. Initilized in .cpp
+//	Friend function SetSalary(Employee &e)
+//	is a friend function residing in driver.cpp
+//	Takes pointer to Employee object as parameter.
 //============================================================================
 
 #ifndef Employee_H						// Header Guards
