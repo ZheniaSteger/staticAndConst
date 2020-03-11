@@ -1,7 +1,6 @@
 //============================================================================
 // Author      : Zhenia Steger
 // College     : California Statee San Marcos
-// Purpose     : Implementation of the Employee class.
 // Purpose     : Header file for Employee class
 //	Declares static and const variables. Initilized in .cpp
 //	Friend function SetSalary(Employee &e)
